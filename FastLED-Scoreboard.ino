@@ -1,7 +1,7 @@
 /*
   FastLED Scoreboard
 
-  Non-bloking score board with WinMode written for the FastLED library
+  Non-blocking score board with WinMode written for the FastLED library
 
   The circuit:
   - WS2812b led strip data pin connected to the pin 5 of your Arduino
